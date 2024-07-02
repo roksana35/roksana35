@@ -7,7 +7,8 @@ Hello! I'm Roksana Akter, a passionate Front-End Web Developer with a keen eye f
 
 ### Skills:  
 <p align="left">
-   <div style="display: inline-block; margin-right: 10px;">
+   <div style="display: flex ; ">
+         <div style="display: inline-block; margin-right: 10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
     </a>
@@ -17,12 +18,18 @@ Hello! I'm Roksana Akter, a passionate Front-End Web Developer with a keen eye f
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
     </a>
   </div> 
+   <div style="display: inline-block; margin-right: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
+       </div>
+     <div style="display: inline-block; margin-right: 10px;">  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+     </div>
+   </div>
+
   <br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
