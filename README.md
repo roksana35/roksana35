@@ -9,15 +9,10 @@ Hello! I'm Roksana Akter, a passionate Front-End Web Developer with a keen eye f
 HTML/CSS/JavaScript/React
 
 ### Github Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roksana35)](https://git.io/streak-stats)
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roksana35)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksana35)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roksana35)](https://git.io/streak-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roksana35)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roksana35&show_icons=true)  
 
