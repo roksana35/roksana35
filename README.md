@@ -5,10 +5,13 @@
 
 Hello! I'm Roksana Akter, a passionate Front-End Web Developer with a keen eye for detail and design. I love creating responsive, user-friendly web applications and websites. My skills include HTML, CSS, JavaScript, and React. I have experience with various projects, from simple landing pages to complex web apps. I'm always eager to learn new technologies and improve my craft. In my free time, I enjoy exploring new design trends and contributing to open-source projects. Feel free to connect with me for any collaboration or project ideas!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roksana35)](https://git.io/streak-stats)
-
 ### Skills:  
 HTML/CSS/JavaScript/React
+
+### Github Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roksana35)](https://git.io/streak-stats)
+
+
 
 
 
